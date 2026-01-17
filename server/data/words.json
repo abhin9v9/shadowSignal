@@ -1,0 +1,454 @@
+{
+    "domains": [
+        {
+            "name": "Animals",
+            "words": [
+                {
+                    "primary": "Dog",
+                    "similar": [
+                        "Wolf",
+                        "Fox",
+                        "Coyote"
+                    ]
+                },
+                {
+                    "primary": "Cat",
+                    "similar": [
+                        "Lion",
+                        "Tiger",
+                        "Panther"
+                    ]
+                },
+                {
+                    "primary": "Elephant",
+                    "similar": [
+                        "Mammoth",
+                        "Rhino",
+                        "Hippo"
+                    ]
+                },
+                {
+                    "primary": "Eagle",
+                    "similar": [
+                        "Hawk",
+                        "Falcon",
+                        "Owl"
+                    ]
+                },
+                {
+                    "primary": "Shark",
+                    "similar": [
+                        "Dolphin",
+                        "Whale",
+                        "Orca"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Food",
+            "words": [
+                {
+                    "primary": "Pizza",
+                    "similar": [
+                        "Flatbread",
+                        "Focaccia",
+                        "Calzone"
+                    ]
+                },
+                {
+                    "primary": "Sushi",
+                    "similar": [
+                        "Sashimi",
+                        "Nigiri",
+                        "Maki"
+                    ]
+                },
+                {
+                    "primary": "Burger",
+                    "similar": [
+                        "Sandwich",
+                        "Hotdog",
+                        "Wrap"
+                    ]
+                },
+                {
+                    "primary": "Pasta",
+                    "similar": [
+                        "Noodles",
+                        "Ramen",
+                        "Udon"
+                    ]
+                },
+                {
+                    "primary": "Taco",
+                    "similar": [
+                        "Burrito",
+                        "Quesadilla",
+                        "Enchilada"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Places",
+            "words": [
+                {
+                    "primary": "Beach",
+                    "similar": [
+                        "Island",
+                        "Coast",
+                        "Shore"
+                    ]
+                },
+                {
+                    "primary": "Mountain",
+                    "similar": [
+                        "Hill",
+                        "Cliff",
+                        "Peak"
+                    ]
+                },
+                {
+                    "primary": "Forest",
+                    "similar": [
+                        "Jungle",
+                        "Woods",
+                        "Grove"
+                    ]
+                },
+                {
+                    "primary": "Desert",
+                    "similar": [
+                        "Dunes",
+                        "Oasis",
+                        "Sahara"
+                    ]
+                },
+                {
+                    "primary": "City",
+                    "similar": [
+                        "Town",
+                        "Village",
+                        "Metropolis"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sports",
+            "words": [
+                {
+                    "primary": "Football",
+                    "similar": [
+                        "Soccer",
+                        "Rugby",
+                        "Cricket"
+                    ]
+                },
+                {
+                    "primary": "Basketball",
+                    "similar": [
+                        "Volleyball",
+                        "Handball",
+                        "Netball"
+                    ]
+                },
+                {
+                    "primary": "Tennis",
+                    "similar": [
+                        "Badminton",
+                        "Squash",
+                        "Pickleball"
+                    ]
+                },
+                {
+                    "primary": "Swimming",
+                    "similar": [
+                        "Diving",
+                        "Surfing",
+                        "Rowing"
+                    ]
+                },
+                {
+                    "primary": "Boxing",
+                    "similar": [
+                        "Wrestling",
+                        "Karate",
+                        "Judo"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Vehicles",
+            "words": [
+                {
+                    "primary": "Car",
+                    "similar": [
+                        "Taxi",
+                        "Bus",
+                        "Van"
+                    ]
+                },
+                {
+                    "primary": "Airplane",
+                    "similar": [
+                        "Helicopter",
+                        "Jet",
+                        "Drone"
+                    ]
+                },
+                {
+                    "primary": "Ship",
+                    "similar": [
+                        "Boat",
+                        "Yacht",
+                        "Ferry"
+                    ]
+                },
+                {
+                    "primary": "Train",
+                    "similar": [
+                        "Tram",
+                        "Metro",
+                        "Subway"
+                    ]
+                },
+                {
+                    "primary": "Motorcycle",
+                    "similar": [
+                        "Scooter",
+                        "Bicycle",
+                        "Moped"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Professions",
+            "words": [
+                {
+                    "primary": "Doctor",
+                    "similar": [
+                        "Nurse",
+                        "Surgeon",
+                        "Dentist"
+                    ]
+                },
+                {
+                    "primary": "Teacher",
+                    "similar": [
+                        "Professor",
+                        "Tutor",
+                        "Coach"
+                    ]
+                },
+                {
+                    "primary": "Chef",
+                    "similar": [
+                        "Baker",
+                        "Cook",
+                        "Butcher"
+                    ]
+                },
+                {
+                    "primary": "Lawyer",
+                    "similar": [
+                        "Judge",
+                        "Attorney",
+                        "Prosecutor"
+                    ]
+                },
+                {
+                    "primary": "Artist",
+                    "similar": [
+                        "Painter",
+                        "Sculptor",
+                        "Designer"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Technology",
+            "words": [
+                {
+                    "primary": "Laptop",
+                    "similar": [
+                        "Tablet",
+                        "Computer",
+                        "Desktop"
+                    ]
+                },
+                {
+                    "primary": "Smartphone",
+                    "similar": [
+                        "iPhone",
+                        "Android",
+                        "Cellphone"
+                    ]
+                },
+                {
+                    "primary": "Camera",
+                    "similar": [
+                        "Webcam",
+                        "Camcorder",
+                        "DSLR"
+                    ]
+                },
+                {
+                    "primary": "Headphones",
+                    "similar": [
+                        "Earbuds",
+                        "Speakers",
+                        "Airpods"
+                    ]
+                },
+                {
+                    "primary": "Television",
+                    "similar": [
+                        "Monitor",
+                        "Display",
+                        "Screen"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Music",
+            "words": [
+                {
+                    "primary": "Guitar",
+                    "similar": [
+                        "Bass",
+                        "Ukulele",
+                        "Banjo"
+                    ]
+                },
+                {
+                    "primary": "Piano",
+                    "similar": [
+                        "Keyboard",
+                        "Organ",
+                        "Synthesizer"
+                    ]
+                },
+                {
+                    "primary": "Drums",
+                    "similar": [
+                        "Percussion",
+                        "Bongos",
+                        "Cymbals"
+                    ]
+                },
+                {
+                    "primary": "Violin",
+                    "similar": [
+                        "Cello",
+                        "Viola",
+                        "Fiddle"
+                    ]
+                },
+                {
+                    "primary": "Trumpet",
+                    "similar": [
+                        "Trombone",
+                        "Saxophone",
+                        "Clarinet"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Weather",
+            "words": [
+                {
+                    "primary": "Rain",
+                    "similar": [
+                        "Drizzle",
+                        "Storm",
+                        "Shower"
+                    ]
+                },
+                {
+                    "primary": "Snow",
+                    "similar": [
+                        "Blizzard",
+                        "Frost",
+                        "Hail"
+                    ]
+                },
+                {
+                    "primary": "Sunshine",
+                    "similar": [
+                        "Daylight",
+                        "Warmth",
+                        "Summer"
+                    ]
+                },
+                {
+                    "primary": "Wind",
+                    "similar": [
+                        "Breeze",
+                        "Gust",
+                        "Hurricane"
+                    ]
+                },
+                {
+                    "primary": "Thunder",
+                    "similar": [
+                        "Lightning",
+                        "Storm",
+                        "Tempest"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Clothing",
+            "words": [
+                {
+                    "primary": "Jacket",
+                    "similar": [
+                        "Coat",
+                        "Blazer",
+                        "Hoodie"
+                    ]
+                },
+                {
+                    "primary": "Shoes",
+                    "similar": [
+                        "Boots",
+                        "Sneakers",
+                        "Sandals"
+                    ]
+                },
+                {
+                    "primary": "Jeans",
+                    "similar": [
+                        "Pants",
+                        "Trousers",
+                        "Shorts"
+                    ]
+                },
+                {
+                    "primary": "Hat",
+                    "similar": [
+                        "Cap",
+                        "Beanie",
+                        "Fedora"
+                    ]
+                },
+                {
+                    "primary": "Dress",
+                    "similar": [
+                        "Gown",
+                        "Skirt",
+                        "Robe"
+                    ]
+                }
+            ]
+        }
+    ]
+}
